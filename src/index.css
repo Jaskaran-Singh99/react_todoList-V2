@@ -264,7 +264,7 @@ Grocery List
   letter-spacing: 2px;
   transition: var(--transition);
 }
-.edit-btn,
+
 .delete-btn {
   background: transparent;
   border-color: transparent;
@@ -273,12 +273,12 @@ Grocery List
   margin: 0 0.15rem;
   transition: var(--transition);
 }
-.edit-btn {
+/* .edit-btn {
   color: var(--clr-green-light);
 }
 .edit-btn:hover {
   color: var(--clr-green-dark);
-}
+} */
 .delete-btn {
   color: var(--clr-red-light);
 }
